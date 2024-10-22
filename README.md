@@ -9,7 +9,7 @@ My name is **Nirineya**. I currently work in **technical support**, but I’m ac
 ---
 
 ### 🔭 What I’m Working On  
-- **App for AdGuard AdBlocker** – building a tool to help users create custom blocking rules. Planning to create repo for it, and upload first working prototype in November.
+- **App for AdGuard AdBlocker** – building a tool to help users create custom blocking rules. Planning to create repo for it, and upload first working prototype in December.
 - Exploring more complex apps with a focus on intuitive UI/UX.
 
 ---
