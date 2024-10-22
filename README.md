@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m glad you stopped by!
 
-![Banner](https://pixabay.com/get/gf16b5ff1cf7923795/) <!-- Replace with your own image -->
+![Welcome](https://pixabay.com/get/gf16b5ff1cf7923795/) <!-- Replace with your own image -->
 
 ### 🌱 About Me  
 My name is **Nirineya**. I currently work in **technical support**, but I’m actively learning **C# development** to grow my skills and build a career in software development. I enjoy working on small projects to improve my understanding of coding and user interface design.
