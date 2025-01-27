@@ -9,16 +9,15 @@ My name is **Nirineya**. I currently work in **technical support**, but I’m ac
 ---
 
 ### 🔭 What I’m Working On  
-- **App for AdGuard AdBlocker** – building a tool to help users create custom blocking rules. Planning to create repo for it, and upload first working prototype in December.
-- Exploring more complex apps with a focus on intuitive UI/UX.
+Kea
 
 ---
 
 ### 💻 Tech Stack & Interests  
 - **Languages**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# icon"/> C#  
+ 
 - **Tools**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio icon"/> Visual Studio  
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git icon"/> Git (just getting started)  
 - **Interests**: UI/UX development, algorithms, and exploring new programming approaches.
 
