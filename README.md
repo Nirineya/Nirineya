@@ -1,47 +1,55 @@
-## 👋 Hi there, I’m glad you stopped by!
+# 👋 Hi there
 
-![Welcome](https://github.com/Nirineya/Nirineya/blob/main/cat.png) <!-- Replace with your own image -->
+I'm Nirineya, a developer focused on web technologies and user interfaces.
 
-### 🌱 About Me  
-My name is **Nirineya**. I currently work in **technical support**, but I’m actively learning **C# development** to grow my skills and build a career in software development. I enjoy working on small projects to improve my understanding of coding and user interface design.
-
+I enjoy building clean and fast interfaces, experimenting with modern web tools, and exploring how complex systems work under the hood.
 
 ---
 
-### 🔭 What I’m Working On  
-Kea
+## 🧑‍💻 About Me
+
+- Working with modern web technologies
+- Interested in UX/UI and web architecture
+- Exploring different approaches to building scalable interfaces
+- Occasionally experimenting with indie game development
 
 ---
 
-### 💻 Tech Stack & Interests  
-- **Languages**:  
- 
-- **Tools**:  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git icon"/> Git (just getting started)  
-- **Interests**: UI/UX development, algorithms, and exploring new programming approaches.
+## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+</p>
+
+### Languages
+- JavaScript
+- TypeScript
+- PHP
+
+### Frameworks
+- React
+- Vue
+- Symfony
+- Twig
+
+### Tools
+- Git
+- Node.js
+- pnpm
+- Web APIs
+- Browser DevTools
 
 ---
 
-### 💬 Ask Me About  
-- C#, Windows development.
+## 🎯 Interests
 
----
-
-### 📈 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
-### 📫 How to Reach Me  
-- [Email](mailto:forthealiance1337@gmail.com)
-
----
-
-### ⚡ Fun Fact  
-In my free time, I love developing small projects for experiments and personal growth. 🎯
-
----
-
-*Thanks for visiting! Hope you enjoy my profile. 🤝*
+- Web development
+- UX/UI design
+- Privacy-focused technologies
+- Indie game developme
